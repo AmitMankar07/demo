@@ -1,8 +1,8 @@
 # demo
 This is my first git repo<br>
-Author Amit Mankar
+Author Amit Mankar<br>
 
-Books Name 
-Rich Dad Poor Dad-Robert Kiyosaki
-Hidden Hindu -Akshat Gupta 
-Hidden Hndu 2- Akshat Gupta
+Books Name <br>
+Rich Dad Poor Dad-Robert Kiyosaki<br>
+Hidden Hindu -Akshat Gupta <br>
+Hidden Hndu 2- Akshat Gupta<br>
